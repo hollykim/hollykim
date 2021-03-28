@@ -1,4 +1,12 @@
-### Hi there 👋
+<!-- # Hi there, I am Hyojin Kim👋 -->
+
+<img src="./hollyLogo2.png">
+
+- 🌱 I'm from South Korea, living in Cork, Ireland.
+- ✨ Please call me as Holly, it's my nickname
+- ✉️ How to reach me: [LinkedIn](https://www.linkedin.com/in/hollyhyojin/) or [holly.hyojin@gmail.com](holly.hyojin@gmail.com)
+
+<!-- - 📚 I'm learning Java, SQL, basic Front-end skills. -->
 
 <!--
 **hollykim/hollykim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
