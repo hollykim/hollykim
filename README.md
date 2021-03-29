@@ -1,10 +1,10 @@
-<!-- # Hi there, I am Hyojin Kim👋 -->
+# Hi there, I am Hyojin Kim👋
 
-<img src="./hollyLogo2.png">
+<!-- <img src="./hollyLogo2.png"> -->
 
+- ✨ Please call me as **_Holly_**, it's my nickname!
 - 🌱 I'm from South Korea, living in Cork, Ireland.
-- ✨ Please call me as Holly, it's my nickname
-- ✉️ How to reach me: [LinkedIn](https://www.linkedin.com/in/hollyhyojin/) or [holly.hyojin@gmail.com](holly.hyojin@gmail.com)
+- ✉️ You can reach me in [LinkedIn](https://www.linkedin.com/in/hollyhyojin/) or [holly.hyojin@gmail.com](holly.hyojin@gmail.com)
 
 <!-- - 📚 I'm learning Java, SQL, basic Front-end skills. -->
 
