@@ -1,14 +1,17 @@
-# Hi there, I am Hyojin Kim👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=ffc93c&height=300&section=header&text=Hello👋&fontColor=eb596e&fontSize=90&reversal=true&)
 
-<!--
-<img src="./Hyojin Kim.JPG"> -->
+<h1 align="center">I am Hyojin Kim</h1>
 
-- ✨ Please call me as **_Holly_**, it's my nickname!
-- 🌱 I'm from South Korea, living in Cork, Ireland.
-- ✉️ You can reach me in [LinkedIn](https://www.linkedin.com/in/hollyhyojin/) or [holly.hyojin@gmail.com](holly.hyojin@gmail.com)
+✨ Please call me as **_Holly_**, it's my nickname!
 
+🌱 I'm from South Korea, living in Cork, Ireland.
+
+✉️ You can reach me in [LinkedIn](https://www.linkedin.com/in/hollyhyojin/) or [holly.hyojin@gmail.com](holly.hyojin@gmail.com)
+
+<div align=center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hollykim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 <!-- - 📚 I'm learning Java, SQL, basic Front-end skills. -->
 
 <!--
