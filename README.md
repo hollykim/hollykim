@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=ffc93c&height=200&section=header&text=Hello👋&fontColor=eb596e&fontSize=90&reversal=true&)
+![header](https://capsule-render.vercel.app/api?type=slice&color=ffc93c&height=200&section=header&text=Hyojin_Kim&fontColor=eb596e&fontSize=90&reversal=true&)
 
-<h1 align="center">I am Hyojin Kim</h1>
+<h1 align="center">Hello there👋</h1>
 
 ✨ Please call me as **_Holly_**, it's my nickname!
 
