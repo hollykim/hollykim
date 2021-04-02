@@ -1,10 +1,12 @@
 # Hi there, I am Hyojin Kim👋
 
-<!-- <img src="./hollyLogo2.png"> -->
+<img src="./Hyojin Kim.JPG">
 
 - ✨ Please call me as **_Holly_**, it's my nickname!
 - 🌱 I'm from South Korea, living in Cork, Ireland.
 - ✉️ You can reach me in [LinkedIn](https://www.linkedin.com/in/hollyhyojin/) or [holly.hyojin@gmail.com](holly.hyojin@gmail.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hollykim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- - 📚 I'm learning Java, SQL, basic Front-end skills. -->
 
