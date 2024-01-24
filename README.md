@@ -14,7 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hollykim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- - 📚 I'm learning Java, SQL, basic Front-end skills. -->
+<!-- - 📚 I'm learning Java, SQL, and basic Front-end skills. -->
 
 <!--
 **hollykim/hollykim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
