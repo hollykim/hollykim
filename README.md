@@ -2,11 +2,12 @@
 
 <h1 align="center">Hello there👋</h1>
 
-### ✨ Please call me as **_Holly_**, it's my nickname!
+### ✨ I'm from South Korea and have lived in Cork, Ireland since 2016
 
-### 🌱 I'm from South Korea, living in Cork, Ireland.
+### 🌱 I'm working as a Quality Controller 
 
-### 🔥 I’m currently studying Java, C++ and SQL in College, learning JavaScript personally.
+<!--
+### 🔥 I studied Java, C++, and SQL in College, and did self-study JavaScript personally. -->
 
 ### 📧 You can reach me in [LinkedIn](https://www.linkedin.com/in/hollyhyojin/) or [holly.hyojin@gmail.com](holly.hyojin@gmail.com)
 
